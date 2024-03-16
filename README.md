@@ -1,4 +1,4 @@
-# Offline Zip Browser
+# Offline Website Browser
 
 This is a simple offline website browser that lets you browse a website
 offline without Internet connection to the wifi

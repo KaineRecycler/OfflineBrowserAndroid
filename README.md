@@ -1,16 +1,21 @@
 # Offline Zip Browser
 
-This project is meant so that I can play interactive fiction games, but it's also good for any similar project. You can even play my LizardUp game if you download the source as a zip and open it.
+This is a simple offline website browser that lets you browse a website
+offline without Internet connection to the wifi
 
 ## Use
 
-1. Use "Open with..." from your file app on a `.zip` file or standalone `.html` file, and select "Offline Zip Browser".
-1. Enter a name for it (you cannot change this yet)
-    - The app will attempt to guess if .zip or .html but may get it wrong
-		so it's good to specify .zip or .html in the name too.
-1. The file will be saved to app's storage and now any time you open the app
-you will have access to this file. LocalStorage will persist across sessions.
-Which means most interactive fiction games with save states will work.
+1. easy to use app first download a website either from the web or web archive.
+
+2. compress the full website into a full zip file and name your offline website that is in a zip file.
+
+3. transfer the full zipped website to Google drive app from your device or ipad.
+
+4. open your website with the offline browser app and allow share access from Google drive app.
+
+5. browse and interact with your offline website without Internet connection to the WiFi.
+
+
 
 Note: if you use termux + curl to download files, you will have to set the
 `allow-external-apps` property must be set to `true` in `~/.termux/termux.properties` in termux.

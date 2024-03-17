@@ -28,7 +28,7 @@ Debug builds of the app use a different deep link hostname (add .debug to the en
 
 - [Delete a file](app://foss.zip.offline.browser.offlinezipbrowser/action/delete-file)
 - [Rename a file](app://foss.zip.offline.browser.offlinezipbrowser/action/rename-file)
-- Deep link to interact your website app://foss.zip.offline.browser.offlineWebsitebrowser/your-website.html
+- Deep link to interact your offline website app://foss.zip.offline.browser.offlineWebsitebrowser/your-website.html
 
 ### `RENAME_FILE`
 
